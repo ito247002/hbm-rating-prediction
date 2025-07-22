@@ -7,7 +7,7 @@
 少数のレビューしかない商品の真の評価値を予測することで、ECサイトにおけるより信頼性の高いレビューを取得することを目的としています。
 
 また、以下のkaggleのデータセットを使用しています
-[text](https://www.kaggle.com/datasets/datafiniti/grammar-and-online-product-reviews)
+[rammar-and-online-product-reviews](https://www.kaggle.com/datasets/datafiniti/grammar-and-online-product-reviews)
 
 ## プロジェクトの目的
 
